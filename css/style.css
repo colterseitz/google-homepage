@@ -1,6 +1,13 @@
-#google-logo {
+.google-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px; 
+}
+
+.container {
   display: block;
   margin: 0 auto;
   padding-bottom: 10px; 
 }
-s
+
